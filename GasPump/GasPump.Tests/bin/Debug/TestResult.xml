@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.Tests.dll" total="31" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-02-21" time="16:55:46">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="SEANGAO" user="gaosh_000" user-domain="SEANGAO" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.Tests.dll" executed="True" result="Success" success="True" time="0.163" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GasPump" executed="True" result="Success" success="True" time="0.156" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.156" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="WhenRunningGasPump" executed="True" result="Success" success="True" time="0.155" asserts="0">
+                <results>
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_CalculateTotalCost_DieselFuelIsEntered_ResultShouldBeDieselFuelTimesAmount" executed="True" result="Success" success="True" time="0.052" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_CalculateTotalCost_InvalidGasTypeIsEntered_ResultShouldBeZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_CalculateTotalCost_MidgradeGasIsEntered_ResultShouldBeMidgradeGasPriceTimesAmount" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_CalculateTotalCost_PremiumGasIsEntered_ResultShouldBePremiumGasPriceTimesAmount" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_CalculateTotalCost_RegularGasIsEntered_ResultShouldBeRegularGasPriceTimesAmount" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasPriceMapper_DieselFuelIsEntered_ResultShouldBeDieselFuel" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasPriceMapper_InvalidGasTypeIsEntered_ResultShouldBeZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasPriceMapper_MidgradeGasIsEntered_ResultShouldBeMidgradeGasPrice" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasPriceMapper_PremiumGasIsEntered_ResultShouldBePremiumGasPrice" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasPriceMapper_RegularGasIsEntered_ResultShouldBeRegularGasPrice" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasTypeMapper_dOrDIsEntered_ResultShouldBeDieselFuel" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasTypeMapper_InvalidCharacterIsEntered_ResultShouldBeNone" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasTypeMapper_mOrMIsEntered_ResultShouldBeMidgradeGas" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasTypeMapper_pOrPIsEntered_ResultShouldBePremiumGas" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_GasTypeMapper_rOrRIsEntered_ResultShouldBeRegularGas" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredSentinelValue_LowerCaseSentinelValueEntered_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredSentinelValue_MoreThanOneCharacterEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredSentinelValue_NonSentinelValueEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredSentinelValue_NullValueEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredSentinelValue_UpperCaseSentinelValueEntered_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredSentinelValue_WhiteSpaceEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidAmount_InvalidAmountEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidAmount_NullValueEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidAmount_ValidAmountEntered_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidAmount_WhiteSpaceEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidGasType_InvalidGasTypeEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidGasType_LowerCaseValidGasTypeEntered_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidGasType_MoreThanOneCharacterEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidGasType_NullValueEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidGasType_UpperCaseValidGasTypeEntered_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                  <test-case name="GasPump.Tests.WhenRunningGasPump.When_UserEnteredValidGasType_WhiteSpaceEntered_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

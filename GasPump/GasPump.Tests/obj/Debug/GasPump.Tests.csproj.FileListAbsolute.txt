@@ -1,0 +1,9 @@
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.Tests.dll
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.Tests.pdb
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.exe
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\nunit.framework.dll
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.pdb
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\nunit.framework.xml
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\obj\Debug\GasPump.Tests.csprojResolveAssemblyReference.cache
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\obj\Debug\GasPump.Tests.dll
+F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\obj\Debug\GasPump.Tests.pdb

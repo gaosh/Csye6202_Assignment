@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1032]F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.Tests.dll</TopNode>
+  <SelectedNode>[0-1032]F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1032]F:\CSYE-6202-Spring2016-gaspump\GasPump\GasPump.Tests\bin\Debug\GasPump.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1033]GasPump" Expanded="true" />
+    <Node UniqueName="[0-1034]GasPump.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]GasPump.Tests.WhenRunningGasPump" Expanded="true" />
+  </Nodes>
+</VisualState>
