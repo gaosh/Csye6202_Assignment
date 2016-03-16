@@ -1,0 +1,11 @@
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\SimplePayroll.Test.dll
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\SimplePayroll.Test.pdb
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\nunit.framework.dll
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\SimplePayroll.exe
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\SimplePayroll.pdb
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\nunit.framework.xml
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\obj\Debug\SimplePayroll.Test.csprojResolveAssemblyReference.cache
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\obj\Debug\SimplePayroll.Test.dll
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\obj\Debug\SimplePayroll.Test.pdb

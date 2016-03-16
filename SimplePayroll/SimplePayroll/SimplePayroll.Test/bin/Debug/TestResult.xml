@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\SimplePayroll.Test.dll" total="13" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-03-15" time="21:54:59">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="SEANGAO" user="gaosh_000" user-domain="SEANGAO" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll.Test\bin\Debug\SimplePayroll.Test.dll" executed="True" result="Success" success="True" time="0.027" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SimplePayroll" executed="True" result="Success" success="True" time="0.027" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.026" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="WhenRunningSimplePayroll" executed="True" result="Success" success="True" time="0.026" asserts="0">
+                <results>
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredChar_CharCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredChar_NumberCheck_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredNumber_CharCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredNumber_NumberCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredPrintValue_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredRightSSN_SSNCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredRightType_CE_TypeCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredRightType_HE_TypeCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredRightType_SBCE_TypeCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredRightType_SE_TypeCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredSentinelValue_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredWrongSSN_SSNCheck_ResultShouldBeFalse" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="SimplePayroll.Test.WhenRunningSimplePayroll.When_UserEnteredWrongType_HE_TypeCheck_ResultShouldBeTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

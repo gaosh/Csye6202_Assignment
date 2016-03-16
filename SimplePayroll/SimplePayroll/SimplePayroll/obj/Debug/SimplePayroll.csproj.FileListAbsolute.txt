@@ -1,0 +1,5 @@
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll\bin\Debug\SimplePayroll.exe.config
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll\bin\Debug\SimplePayroll.exe
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll\bin\Debug\SimplePayroll.pdb
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll\obj\Debug\SimplePayroll.exe
+G:\CSYE\CSYE6202\projects\SimplePayroll\SimplePayroll\obj\Debug\SimplePayroll.pdb
