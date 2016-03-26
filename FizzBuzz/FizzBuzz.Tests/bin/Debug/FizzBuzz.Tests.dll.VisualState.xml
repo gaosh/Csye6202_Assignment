@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll</TopNode>
+  <SelectedNode>[0-1010]FizzBuzz</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]FizzBuzz" Expanded="true" />
+    <Node UniqueName="[0-1011]FizzBuzz.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]FizzBuzz.Tests.WhenRunningFizzBuzz" Expanded="true" />
+  </Nodes>
+</VisualState>

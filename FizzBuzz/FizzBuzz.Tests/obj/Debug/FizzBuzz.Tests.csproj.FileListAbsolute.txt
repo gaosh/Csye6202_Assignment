@@ -1,0 +1,9 @@
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.exe
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
