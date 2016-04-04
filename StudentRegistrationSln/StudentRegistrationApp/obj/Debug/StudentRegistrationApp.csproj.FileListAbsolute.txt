@@ -1,0 +1,9 @@
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe.config
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.pdb
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Properties.Resources.resources
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.GenerateResource.Cache
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.exe
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.pdb
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.StudentRegistrationForm.resources
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistrationApp\bin\Debug\StudentRegistration.App.exe.config

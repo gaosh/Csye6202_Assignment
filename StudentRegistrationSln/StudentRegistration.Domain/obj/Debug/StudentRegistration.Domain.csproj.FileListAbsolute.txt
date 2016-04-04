@@ -1,0 +1,5 @@
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.Domain\bin\Debug\StudentRegistration.Domain.dll
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.Domain\bin\Debug\StudentRegistration.Domain.pdb
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.Domain\obj\Debug\StudentRegistration.Domain.csprojResolveAssemblyReference.cache
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.Domain\obj\Debug\StudentRegistration.Domain.dll
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.Domain\obj\Debug\StudentRegistration.Domain.pdb

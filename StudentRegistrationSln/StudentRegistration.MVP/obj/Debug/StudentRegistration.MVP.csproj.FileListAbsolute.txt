@@ -1,0 +1,22 @@
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.MVP.dll
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.MVP.pdb
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.Domain.dll
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.Domain.pdb
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.csprojResolveAssemblyReference.cache
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.StudentRegistrationForm.resources
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.csproj.GenerateResource.Cache
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.dll
+D:\NEU\CSYE 6202\Spikes\WinForms\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.pdb
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.MVP.dll
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.MVP.pdb
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.Domain.dll
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\bin\Debug\StudentRegistration.Domain.pdb
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.csprojResolveAssemblyReference.cache
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.Login.resources
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.StudentRegistrationForm.resources
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.csproj.GenerateResource.Cache
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.dll
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.pdb
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.Registration.resources
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.EditStudent.resources
+G:\CSYE\CSYE6202\projects\StudentRegistrationSln\StudentRegistration.MVP\obj\Debug\StudentRegistration.MVP.RemoveStudent.resources
