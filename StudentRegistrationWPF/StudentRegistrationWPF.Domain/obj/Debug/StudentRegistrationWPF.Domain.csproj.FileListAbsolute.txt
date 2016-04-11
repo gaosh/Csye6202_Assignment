@@ -1,0 +1,5 @@
+G:\CSYE\CSYE6202\projects\StudentRegistrationWPF\StudentRegistrationWPF.Domain\bin\Debug\StudentRegistrationWPF.Domain.dll
+G:\CSYE\CSYE6202\projects\StudentRegistrationWPF\StudentRegistrationWPF.Domain\bin\Debug\StudentRegistrationWPF.Domain.pdb
+G:\CSYE\CSYE6202\projects\StudentRegistrationWPF\StudentRegistrationWPF.Domain\obj\Debug\StudentRegistrationWPF.Domain.csprojResolveAssemblyReference.cache
+G:\CSYE\CSYE6202\projects\StudentRegistrationWPF\StudentRegistrationWPF.Domain\obj\Debug\StudentRegistrationWPF.Domain.dll
+G:\CSYE\CSYE6202\projects\StudentRegistrationWPF\StudentRegistrationWPF.Domain\obj\Debug\StudentRegistrationWPF.Domain.pdb

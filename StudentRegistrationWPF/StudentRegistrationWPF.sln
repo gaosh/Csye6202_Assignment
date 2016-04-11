@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRegistrationWPF", "StudentRegistrationWPF\StudentRegistrationWPF.csproj", "{67846DA5-6D55-47D8-AE3A-1644895CECEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRegistrationWPF.Domain", "StudentRegistrationWPF.Domain\StudentRegistrationWPF.Domain.csproj", "{3E73C265-1FBB-4F05-AA46-7546FC4F7A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67846DA5-6D55-47D8-AE3A-1644895CECEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67846DA5-6D55-47D8-AE3A-1644895CECEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67846DA5-6D55-47D8-AE3A-1644895CECEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67846DA5-6D55-47D8-AE3A-1644895CECEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E73C265-1FBB-4F05-AA46-7546FC4F7A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E73C265-1FBB-4F05-AA46-7546FC4F7A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E73C265-1FBB-4F05-AA46-7546FC4F7A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E73C265-1FBB-4F05-AA46-7546FC4F7A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

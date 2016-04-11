@@ -1,0 +1,62 @@
+﻿<Window x:Class="StudentRegistrationWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentRegistrationWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="650">
+    <Grid>
+        <GroupBox Header="Student Info">
+            <Grid HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="200"
+                  Width="480">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"></RowDefinition>
+                    <RowDefinition Height="40"></RowDefinition>
+                    <RowDefinition Height="40"></RowDefinition>
+                    <RowDefinition Height="40"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="300"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Center">
+                    <Label Name="Student_ID" Width="70" Height="30">Student ID</Label>
+                    <TextBox x:Name ="id_txt" Width="200" Height="30" Margin="0,6,0,5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+                    <Label Name="FN" Width="70" Height="30">First Name</Label>
+                    <TextBox x:Name ="fn_txt" Width="200" Height="30" Margin="0,6,0,5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+                    <Label Name="LN" Width="70" Height="30">Last Name</Label>
+                    <TextBox x:Name ="ln_txt" Width="200" Height="30" Margin="0,6,0,5"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="3" HorizontalAlignment="Center">
+                    <Label Name="Dp" Width="70" Height="30">Department</Label>
+                    <ComboBox x:Name ="dp_cb" Width="200" Height="30" Margin="0,6,0,5"></ComboBox>
+                </StackPanel>
+                <GroupBox Header="Enrollment Type" Grid.Column="1" Grid.RowSpan="3" Width="180" Height="Auto">
+                    <Grid>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                            <RadioButton Name="rbt_ft" VerticalAlignment="Center"></RadioButton>
+                            <Label Name="FT" Width="70" Height="30" >Full Time</Label>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <RadioButton Name="rbt_pt" VerticalAlignment="Center"></RadioButton>
+                            <Label Name="PT" Width="70" Height="30">Part Time</Label>
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </GroupBox>
+        <Grid Margin="10,210,140,10">
+            <DataGrid Name="Students_DataGrid" ItemsSource="{Binding Students}" SelectionChanged="Students_DataGrid_SelectionChanged">
+            </DataGrid>
+        </Grid>
+        <Button Margin="520,50,10,480" Name="btn_add" Content="Add" Click="btn_add_Click"></Button>
+        <Button Margin="520,120,10,410" Name="btn_edit" Content="Edit" Click="btn_edit_Click"></Button>
+        <Button Margin="520,190,10,340" Name="btn_delete" Content="Delete" Click="btn_delete_Click"></Button>
+    </Grid>
+</Window>
